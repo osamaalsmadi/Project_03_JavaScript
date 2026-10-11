@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#title {
+    color: #283593; 
+}
+
+.active {
+    color: #2e7d32; 
+}
